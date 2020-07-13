@@ -1,0 +1,194 @@
+#nav-bar{
+    background-color: #F0FFF0;
+}
+#nav-bar img{
+    height: 50px;
+    padding-left: 60%;
+}
+.bg-nb{
+    background-color: #F0FFF0;
+    width: 100%;
+}
+h5{
+    color: red;
+}
+.sign-in-button{
+    background-color: rgb(19, 175, 123);
+    border: none;
+    border-radius: 50px;
+    padding: 4px 10px;
+    color: white;
+}
+#banner .col-md-6 h5{
+   margin-top:20% ; 
+}
+.banner-row{
+    background-color: #F0FFF0;
+}
+.container h1 .any-schedule{
+    color: #21B578;
+}
+.img-banner{
+    height: 500px;
+    width: 650px;
+}
+#banner{
+    background-color:#F0FFF0;
+}
+
+.container{
+    margin-bottom: 100px;
+   
+}
+    
+
+.card-img-1{
+    height: 100px;
+    width: 80px;
+    padding-top: 25px;
+}
+.card-deck h5{
+    color: black;
+    margin: 20px 5 px;
+}
+#mid-part .card{
+    background-color: #F8FFFB;
+    border-radius: 10PX;
+}
+.card{
+    border: none;
+    box-sizing: 2px 2px;
+    background-color: rgb(232, 239, 240);
+}
+.online-courses{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.online-courses .card img{
+    padding: 15px;
+}
+
+.online-courses .card-body{
+    text-align: left;
+}
+.online-courses .card{
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px;
+}
+#testimonials .test-img{
+   height: 120px;
+   width: 120px;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    margin: 30px 0px 60px;
+}
+.col-center{
+    margin: 0 auto;
+    float: none !important;
+}
+.carousel{
+    margin: 50px auto;
+    padding: 0 70px;
+}
+.carousel-item{
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    min-height: 290px; 
+}
+#testimonials p{
+    color: black;
+}
+.carousel .item .img-box{
+    width: 135px;
+    height: 135px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px;
+    border-radius: 50%;
+}
+.carousel .img-box img{
+    width: 100px;
+    height: 100px;
+    display: black;
+    border-radius: 50%;
+}
+.carousel .testimonial{
+    padding: 30px 0px 10px;
+}
+.carousel .overview{
+    font-style: italic;
+}
+.carousel .overview b{
+    color: red;
+}
+.carousel .carousel-control{
+    width: 40px;
+    height: 40px;
+    margin-top: -20px;
+    top: 50%;
+    background: none;
+}
+.carousel-control i{
+    font-size: 68px;
+    line-height: 42px;
+    position: absolute;
+    display: inline-block;
+    color: rgba(0,0,0,0);
+    text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+}
+.carousel .carousel-indicator{
+    bottom: -40px;
+}
+.carousel-indicator li, .carousel-indicator li.active{
+    width: 10px;
+    height: 10px;
+    margin: 1px 3px;
+    border-radius: 50%;
+}
+.carousel-indicator li{
+    background:#999;
+    border-color: transparent;
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0);
+}
+.carousel-indicator li.active{
+    background: #555;
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0);
+}
+.footer-top{
+    background: #282531;
+    padding: 80px 0;
+}
+.footer-top h3,p,ul{
+    color: white;
+}
+.segment-two ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-three ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-four ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.footer-bottom-text{
+    text-align: center;
+    background: #282531;
+    color: white;
+    line-height: 75px;
+    
+}
+
+
+
