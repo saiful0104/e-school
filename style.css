@@ -22,6 +22,9 @@ h5{
 #banner .col-md-6 h5{
    margin-top:20% ; 
 }
+#banner p{
+    color: black;
+}
 .banner-row{
     background-color: #F0FFF0;
 }
